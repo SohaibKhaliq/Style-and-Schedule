@@ -17,7 +17,7 @@ Style and Schedule is a web-based application designed to streamline salon and s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/style-and-schedule.git
+   git clone https://github.com/SohaibKhaliq/style-and-schedule.git
    cd style-and-schedule
 2. **Install dependencies:**
    ```bash
